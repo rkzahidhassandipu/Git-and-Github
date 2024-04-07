@@ -7,10 +7,10 @@
 
 3. অনেক লিখা হয়ে গিলে control+l
 
-4. যে folder এ আছি সেটা দেখার জন্য = pwd - এটা একটা লিঙ্ক আকারে দেখাবে
+4. যে folder এ আছি সেটা দেখার জন্য = pwd - এটা একটা লিঙ্ক আকারে দেখাবে <br>
     <img src="./img/Screenshot_2.png" width="200px" title="profile image">
 
-5. যদি সব folder দেখতে চাই তাহলে = ls  এবং hide file দেখার জন্য = ls -a
+5. যদি সব folder দেখতে চাই তাহলে = ls  এবং hide file দেখার জন্য = ls -a <br>
     <img src="./img/Screenshot_3.png" width="200px" title="profile image">
     <img src="./img/Screenshot_4.png" width="200px" title="profile image">
 
@@ -29,7 +29,7 @@
 
 11. File untrack করার জন্য git rm -- cached file name
 
-12. ফাইল থেকে কি সরানো হয়েছে তার পরিবর্তন দেখার জন্য git diff
+12. ফাইল থেকে কি সরানো হয়েছে তার পরিবর্তন দেখার জন্য git diff<br>
     <img src="./img/Screenshot_5.png" width="200px" title="profile image">
 13. File open করার জন্য explorer.exe file name
 
@@ -50,12 +50,12 @@
 
 25.  সব commit ফিরিয়ে আনার জন্য git checkout master
 
-26.  কিভাবে ফাইল আপলোড করতে হয় github প্রথম ফোল্ডারে git install করতে হবে তার পরে git add যদি চাও তাহলে git commit  করতে পারো। এবং একটি github repository তৈরি করতে হবে তৈরি করার সময় or push existing লেখা দেখাবে এর নিচে থেকে fast line এবং last line নিতে হবে git remote add (default name  origin আমিও একটা নাম দিতে পারবো) fast-line git push -u (default name  origin আমিও একটা নাম দিতে পারবো)last name
+26.  কিভাবে ফাইল আপলোড করতে হয় github প্রথম ফোল্ডারে git install করতে হবে তার পরে git add যদি চাও তাহলে git commit  করতে পারো। এবং একটি github repository তৈরি করতে হবে তৈরি করার সময় or push existing লেখা দেখাবে এর নিচে থেকে fast line এবং last line নিতে হবে git remote add (default name  origin আমিও একটা নাম দিতে পারবো) fast-line git push -u (default name  origin আমিও একটা নাম দিতে পারবো)last name<br>
 <img src="./img/Screenshot_6.png" width="200px" title="profile image">
 
-27.  Remote repository চেক করার জন্য git remot  -v
+27.  Remote repository চেক করার জন্য git remot  -v<br>
     <img src="./img/Screenshot_7.png" width="200px" title="profile image">
-28.  Git connection করার জন্য github থেকে code green button থেকে একটা link নিতে হবে git remote add (default name  origin আমিও একটা নাম দিতে পারবো)link
+28.  Git connection করার জন্য github থেকে code green button থেকে একটা link নিতে হবে git remote add (default name  origin আমিও একটা নাম দিতে পারবো)link<br>
     <img src="./img/Screenshot_8.png" width="200px" title="profile image">
 29.  যদি github এ আগে  কিছু পরিবর্তন থাকে সেটা computer a pull  করে আনতে হবে তার পরে আমি যেটা add করতে চাচ্ছি সেটা add করতে হবে github এ add করার জন্য git push -u name github থেকে  update আনার জন্য git pullকরতে হবে 
 
